@@ -28,7 +28,7 @@
 - พอร์ท Stereo I2S input/output with MCK pin,There's a hardware SPI port, hardware I2C port
 - ลิงค์ https://docs.platformio.org/en/latest/boards/atmelsam/adafruit_grandcentral_m4.html#id1
 ## 5.RISC-V MCU CH32V307
-![image](https://user-images.githubusercontent.com/98944081/153745350-f27d098c-f569-4b73-ad95-c379e8800ce9.jpeg)
+![image](https://user-images.githubusercontent.com/98944081/153745396-c99eef0a-3378-4dbf-803a-0ebf001cd016.jpeg)
 - ราคา 360บาท
 - ความเร็ว 144 MHz
 - หน่วยความจำ 64KB 
