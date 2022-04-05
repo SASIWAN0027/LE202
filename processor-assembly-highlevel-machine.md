@@ -8,12 +8,12 @@
 - เป็นองค์ประกอบที่สำคัญส่วนหนึ่งของเครื่องคอมพิวเตอร์ทุกประเภทในโลก เปรียบเสมือนกับเป็นมันสมองให้กับคอมพิวเตอร์นั่นเอง ประกอบไปด้วยวงจรทางไฟฟ้ามากมาย ที่อยู่บนแผ่นซิลิกอนซิป ซึ่งมีขนาดเล็กมาก ๆ
 - ไมโครคอนโทรลเลอร์คือ อุปกรณ์ควบคุมขนาดเล็ก ซึ่งบรรจุความสามารถท่ีคล้ายคลึงกับระบบคอมพิวเตอร์ โดยในไมโครคอนโทรลเลอร์ได้รวมเอาซีพียู, หน่วยความจำและพอร์ตซึ่งเป็นส่วนประกอบหลักสำคัญของระบบคอมพิวเตอร์เข้าไว้ด้วยกัน โดยการบรรจุเข้าไว้ในตัวถังเดียวกัน
 # เปรียบเทียบความสัมพันธ์
-- ตัวอย่างที่1 High level language คือ ภาษาซี(C) , Processor คือ RISC-V rv64gc clang 12.0.0
+- ตัวอย่างที่1 High level language คือ ภาษาซี(C) , Processor คือ RISC-V rv64gc clang 12.0.0 จะได้
 assembly คือ
 ![image](https://user-images.githubusercontent.com/98944081/161817761-687e260d-b6f8-4e86-b845-8113c046bfc1.jpeg)
 Machine language คือ
 ![image](https://user-images.githubusercontent.com/98944081/161818081-d7703b92-babc-4cbe-acb9-26370b660049.jpeg)
-- ตัวอย่างที่2 High level language คือ ภาษาซีพลัสพลัส(C++) , Processor คือ mips64 gcc 5.4
+- ตัวอย่างที่2 High level language คือ ภาษาซีพลัสพลัส(C++) , Processor คือ mips64 gcc 5.4 จะได้
 assembly คือ
 ![image](https://user-images.githubusercontent.com/98944081/161818463-196d70b7-087a-4b6b-bfc3-d67d657a1461.jpeg)
 Machine language คือ
